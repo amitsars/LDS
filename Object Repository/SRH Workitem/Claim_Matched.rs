@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Claim_Matched</name>
+   <tag></tag>
+   <elementGuidId>b3fee72c-c299-47cd-bc7f-6af1e18b04ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#wwctrl_workflowDetails_input_itemMetadata_36__value > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;wwctrl_workflowDetails_input_itemMetadata_38__value&quot;]/label[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ba689b5f-ddb4-4130-8fd1-581b7b357fa7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>workflowDetails_input_itemMetadata_36__valueYes</value>
+      <webElementGuid>6b93f463-848f-4d12-971b-694207892665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>7f0e06fc-6a05-4b35-9176-ffc90bfda43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wwctrl_workflowDetails_input_itemMetadata_36__value&quot;)/label[1]</value>
+      <webElementGuid>4671f319-9884-4800-b278-0551ababaf1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wwctrl_workflowDetails_input_itemMetadata_36__value']/label</value>
+      <webElementGuid>56c5fcc4-559d-4e5e-8ff1-19944ce27d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Security Number Matched'])[1]/following::label[1]</value>
+      <webElementGuid>48f0b89b-c983-4067-864b-7fb6a36405ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discrepancies:'])[1]/following::label[1]</value>
+      <webElementGuid>0e8f767d-7adc-4ef9-be3d-5e39de7b23e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/preceding::label[1]</value>
+      <webElementGuid>4b44f361-ec30-45fd-8a17-c58450b18ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Security Number Does Not Match'])[1]/preceding::label[2]</value>
+      <webElementGuid>0282e736-c6dd-4e7f-9197-2f68f45e4e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[31]/td[2]/div/div/div/div/label</value>
+      <webElementGuid>5a4d6671-e4ff-41b4-af5a-a53471d87ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>50c9beec-4964-4171-913c-1f3516fcd782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

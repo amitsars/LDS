@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Workflow</name>
+   <tag></tag>
+   <elementGuidId>7031c6ac-42a5-4a19-bddc-50d3df3dc42f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navigation']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-state-default.ui-button.ui-widget.ui-corner-all.ui-button-text-icon-secondary.ui-state-hover.ui-state-focus > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d9c713a4-acf2-47d7-9b30-81d897081bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>bdb75d6e-62d2-4e34-8aa3-4b7f4c486118</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Workflow</value>
+      <webElementGuid>7ab94f79-fdef-42cc-abf6-dee31815f818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navigation&quot;)/a[@class=&quot;ui-state-default ui-button ui-widget ui-corner-all ui-button-text-icon-secondary ui-state-hover ui-state-focus&quot;]/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>aa559fd9-4ae6-4560-b034-3f21060b75dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navigation']/a/span</value>
+      <webElementGuid>2a012a73-5a92-4ffc-96dd-696d088bfff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amit.Sarswat'])[1]/following::span[1]</value>
+      <webElementGuid>1e6e99b7-140f-4059-9b51-15f4a6f64998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[1]/preceding::span[2]</value>
+      <webElementGuid>36a1e352-296f-499d-a8cf-07a64c2e32aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[1]/preceding::span[2]</value>
+      <webElementGuid>fa911273-78a1-4ddd-ad7c-b0627aaf1874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Workflow']/parent::*</value>
+      <webElementGuid>f472ff9c-c435-454e-a84c-6e5881d952d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>6e2544a3-b228-4b9b-a694-f5ea79caea0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Workflow' or . = 'Workflow')]</value>
+      <webElementGuid>b59e219b-997d-45bd-befe-cdc4e59c57ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start a new test interview using this rulebook</name>
+   <tag></tag>
+   <elementGuidId>e685e129-b86b-487c-94b1-9c3dadd59050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[3]/div/ul/li[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f254c8d-9004-486a-aca6-0a2c4954f04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/underwriting/interview/startInterview.action?rulebookId=5442724&amp;canStartInterview=true</value>
+      <webElementGuid>eecf4759-dc6a-4542-91c5-6726e119ef75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start a new test interview using this rulebook</value>
+      <webElementGuid>eeae3966-534b-4054-a98f-ceb0b0adce26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;ui-widget ui-widget-content ui-corner-all margin-tb el-widget-padding-all ui-helper-clearfix&quot;]/div[@class=&quot;ui-container-content&quot;]/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>38e29815-764f-4970-91e4-afe0df2c06b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[3]/div/ul/li[5]/a</value>
+      <webElementGuid>1030b6b0-3983-4eca-a73c-fa3e4e9a4bd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start a new test interview using this rulebook')]</value>
+      <webElementGuid>c790b28d-bbd0-43ff-bd8b-f70ac74cdf4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and resume interviews'])[1]/following::a[1]</value>
+      <webElementGuid>a9dad671-0d89-498c-b84b-d0646fce434a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View and edit decision groups and rules'])[1]/following::a[2]</value>
+      <webElementGuid>79758f41-9b7d-4c74-8469-8675f37cb8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export this rulebook as an XML file'])[1]/preceding::a[1]</value>
+      <webElementGuid>cfc7a437-827b-4643-baea-20efaccd579c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Validate this rulebook and report invalid expressions'])[1]/preceding::a[2]</value>
+      <webElementGuid>ac90a8eb-2bed-4bb1-acbf-868a5f3136db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start a new test interview using this rulebook']/parent::*</value>
+      <webElementGuid>932bb0b0-8235-4a31-9efe-e89504756a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/underwriting/interview/startInterview.action?rulebookId=5442724&amp;canStartInterview=true')]</value>
+      <webElementGuid>ba9c4160-50a8-4c0c-bbee-c22894724c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[5]/a</value>
+      <webElementGuid>e546d3ff-f9c1-495d-963c-cd66f2fa1247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/underwriting/interview/startInterview.action?rulebookId=5442724&amp;canStartInterview=true' and (text() = 'Start a new test interview using this rulebook' or . = 'Start a new test interview using this rulebook')]</value>
+      <webElementGuid>297da083-d3b2-4ab6-8a9f-6f40e6496210</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

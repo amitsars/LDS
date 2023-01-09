@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Open eApp</name>
+   <tag></tag>
+   <elementGuidId>97bc2f3c-81fa-41c2-a3c6-ad7a9e589547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#metadataKeyNoDisplayWidth3089 > button[type=&quot;button&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c0e50c3c-e53d-4ed6-9810-8d7b7df9d447</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf517113-6ba4-435b-81dd-e82ab4a8ef07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cssclass</name>
+      <type>Main</type>
+      <value>el-button ui-state-default ui-corner-all left</value>
+      <webElementGuid>4ad80e11-4aa6-4630-9b87-424c3c04d4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>callButtonAction(event,3089);</value>
+      <webElementGuid>8bc03765-20d9-4241-8c72-81124209c67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open eApp</value>
+      <webElementGuid>10e9e23a-5bff-4d25-a32d-c36ea7359c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;metadataKeyNoDisplayWidth3089&quot;)/button[1]</value>
+      <webElementGuid>38cfbc1a-ae13-466b-9f32-9559378d8c9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>d4a83301-e444-4be8-a3b1-bc8565e93b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metadataKeyNoDisplayWidth3089']/button</value>
+      <webElementGuid>52f88fe9-d7ad-47a8-b4b4-a82702d4430b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::button[1]</value>
+      <webElementGuid>40c1905a-30ff-4e56-b66b-0a2b2f62157c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Released Letter Must be Yes to Continue'])[1]/following::button[2]</value>
+      <webElementGuid>73da94c3-f57a-4d88-b3b4-44b0d966f8c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Policy Terminated or Reduced in LifePRO'])[1]/preceding::button[1]</value>
+      <webElementGuid>461eddf2-2d84-4ed6-9a98-e856927758b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/preceding::button[1]</value>
+      <webElementGuid>67a6a636-8f1a-49ce-803e-035c6a8e3190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open eApp']/parent::*</value>
+      <webElementGuid>d1e03c97-5e53-4ec1-982a-7cc75382e1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[29]/td[2]/div/div/button</value>
+      <webElementGuid>11e08d63-fba6-47b2-a408-e4a1895306fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Open eApp' or . = 'Open eApp')]</value>
+      <webElementGuid>dbbab8c9-4562-4fce-ab27-ff213562c648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

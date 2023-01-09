@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Enter Application Information</name>
+   <tag></tag>
+   <elementGuidId>203a6fae-94a7-4b40-bb8a-b626bb762eef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Enter Application Information')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#metadataKeyNoDisplayWidth3198 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04d2ad61-ac0f-4666-bda3-1b9df9ad349b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>d7692382-6f03-499d-a171-a88a6f669585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://ec04-vc02-web01:9303/equotes/nextPage!input.action?interviewId=504932&amp;interviewToken=eaH8RQvGaTKzHKc2yrKE</value>
+      <webElementGuid>88cbd856-f880-4b9f-b02c-5e2d4f073d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter Application Information</value>
+      <webElementGuid>e769e5ba-ae9f-4745-98ce-d48bbfd09900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;metadataKeyNoDisplayWidth3198&quot;)/a[1]</value>
+      <webElementGuid>087abdb0-e631-4711-a1cc-6de2909d07f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='metadataKeyNoDisplayWidth3198']/a</value>
+      <webElementGuid>9b53756f-8628-488b-9d80-36b27d1145ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Enter Application Information')]</value>
+      <webElementGuid>775a3154-8e69-413c-b782-129c0720678d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete'])[1]/following::a[1]</value>
+      <webElementGuid>8c8053b1-22e6-4f63-8ec0-c92f2c4a76a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Released Letter Must be Yes to Continue'])[1]/following::a[1]</value>
+      <webElementGuid>fd4d2323-c8a7-4fc4-9c57-09eb42d673eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open eApp'])[1]/preceding::a[1]</value>
+      <webElementGuid>27a047c3-0a84-4bd3-ac7a-d61a4a3033c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Term Policy Terminated or Reduced in LifePRO'])[1]/preceding::a[1]</value>
+      <webElementGuid>f21f2c89-ca1b-463a-983a-2870431198eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enter Application Information']/parent::*</value>
+      <webElementGuid>b9890e97-8d24-494a-80a1-2f993925c3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://ec04-vc02-web01:9303/equotes/nextPage!input.action?interviewId=504932&amp;interviewToken=eaH8RQvGaTKzHKc2yrKE']</value>
+      <webElementGuid>101fdd6f-9721-43e6-94f5-092740c6a5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/a</value>
+      <webElementGuid>a80cb798-7101-4433-839b-cd6b6f7a8b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://ec04-vc02-web01:9303/equotes/nextPage!input.action?interviewId=504932&amp;interviewToken=eaH8RQvGaTKzHKc2yrKE' and (text() = 'Enter Application Information' or . = 'Enter Application Information')]</value>
+      <webElementGuid>3a1ca8f5-632d-4048-a3ce-de5e8458997c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

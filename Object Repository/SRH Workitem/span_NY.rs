@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NY</name>
+   <tag></tag>
+   <elementGuidId>29c32b3d-39ed-4bcc-89d3-ba2a8e632f2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wwctrl_workflowDetails_input_itemMetadata_25__value']/div/div/ul/li[44]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24c9f3dc-d9dd-4841-a23d-0168cb52513e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c37f5e95-eb0e-43d8-b110-0ca1e065fb2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NY</value>
+      <webElementGuid>e40d551c-354d-4af9-82fa-312d720c9a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wwctrl_workflowDetails_input_itemMetadata_25__value&quot;)/div[@class=&quot;btn-group bootstrap-select dropup open&quot;]/div[@class=&quot;dropdown-menu open&quot;]/ul[@class=&quot;dropdown-menu inner&quot;]/li[44]/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>5f2e36e7-386a-472a-8d7e-21520f38f43a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wwctrl_workflowDetails_input_itemMetadata_25__value']/div/div/ul/li[44]/a/span</value>
+      <webElementGuid>04e928a8-2770-4abb-bc74-2e0cd70a5052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NV'])[2]/following::span[2]</value>
+      <webElementGuid>a1271d5b-d884-46b1-9ee3-229863c5c4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NM'])[2]/following::span[4]</value>
+      <webElementGuid>770cc86a-0292-4bb9-8500-97d58d9da38c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OH'])[2]/preceding::span[2]</value>
+      <webElementGuid>2faadb48-7032-40e2-8c25-22441ae789cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[2]/preceding::span[4]</value>
+      <webElementGuid>f57879d3-1b9f-4c69-a428-784625c5277d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td[2]/div/div/div/div/div/div/ul/li[44]/a/span</value>
+      <webElementGuid>91609a85-96af-43ca-8d83-bbbb67c2ad2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'NY' or . = 'NY')]</value>
+      <webElementGuid>6f741c23-c482-4c54-a447-3251745638d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>SDVI Test Data</name>
+   <tag></tag>
+   <containsHeaders>false</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>7644245e-05f2-4990-a591-16f3f461cac3</dataFileGUID>
+   <dataSourceUrl>C:\Users\Amit.Sarswat.EXLDEMO\Desktop\Katalon_Studio_PE_Windows_64-8.5.0\Excel\TestDataUtil.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>CONV</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
